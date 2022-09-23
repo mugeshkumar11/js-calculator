@@ -57,3 +57,7 @@ padding-bottom: 50px;
 .calcrow2:hover button{
     background-color: cadetblue;
 }
+input{
+    font-size: 50px;
+    text-align: right;
+}
